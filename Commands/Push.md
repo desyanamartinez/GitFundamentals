@@ -21,7 +21,7 @@ Before doing so, you'll need to use the `-u` or `--set-upstream` flag. This can 
 git push -u origin main
 ```
 
-After this command is used, you can just use `git push` and it will fucntion the same way.
+After this command is used, you can just use `git push` and it will function the same way.
 
 ## Resources
 
